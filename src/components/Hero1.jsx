@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero1 = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between px-6 md:px-44 py-10 md:py-15 bg-gray-50 h-auto md:h-screen mt-10 md:mt-28">
+    <div className="flex flex-col md:flex-row items-center justify-between px-6 md:px-44 py-10 md:py-15 bg-white h-auto md:h-screen mt-10 md:mt-28">
       <div className="md:w-1/2 text-center md:text-left">
         <h2 className="text-2xl md:text-3xl font-semibold text-gray-800">
           The unseen of spending three years at Pixelgrade
