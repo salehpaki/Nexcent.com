@@ -29,7 +29,7 @@ const Hero4 = () => {
           {[1, 2, 3, 4, 5].map((num) => (
             <img key={num} src={`/Logo${num}.png`} alt={`Logo ${num}`} className="h-10" />
           ))}
-          <a href="#" className="text-green-600 font-semibold flex items-center gap-1">
+          <a className="text-green-600 font-semibold flex items-center gap-1">
             Meet all customers →
           </a>
         </div>
