@@ -23,7 +23,7 @@ const Clients = () => {
 
 
     <div className='flex flex-wrap items-center justify-center gap-10 py-9'>
-    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72">
+    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72 hover:bg-gray-50">
       <div className="bg-green-100 p-3 rounded-lg inline-block">
         <img src="/Icon.png" alt="Membership Icon" className="h-8 w-8" />
       </div>
@@ -35,7 +35,7 @@ const Clients = () => {
       </p>
     </div>
 
-    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72">
+    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72 hover:bg-gray-50">
       <div className="bg-green-100 p-3 rounded-lg inline-block">
         <img src="/Icon.png" alt="Membership Icon" className="h-8 w-8" />
       </div>
@@ -47,7 +47,7 @@ const Clients = () => {
     </div>
 
 
-    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72">
+    <div className="bg-white shadow-lg rounded-xl p-6 text-center w-72 hover:bg-gray-50">
       <div className="bg-green-100 p-3 rounded-lg inline-block">
         <img src="/Icon.png" alt="Membership Icon" className="h-8 w-8" />
       </div>
